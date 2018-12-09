@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-admin"
   gem "jekyll-seo-tag"
   gem 'jekyll-include-cache'
+  gem 'jekyll-deploy'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
